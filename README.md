@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Phptravels Project**
 
-- 🌱 I’m currently learning **API**
+- 🌱 I’m currently learning **JS,API**
 
 - 📫 How to reach me **erensonmez.business@gmail.com**
 

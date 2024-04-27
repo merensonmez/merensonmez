@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Eren Sönmez</h1>
 <h3 align="center">Software Test Automation Engineer</h3>
 
-- 🔭 I’m currently working on **Phptravels Project**
+- 🔭 I’m currently working on **DemoQa Test**
 
 - 🌱 I’m currently learning **JS,API**
 

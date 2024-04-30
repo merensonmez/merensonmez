@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **DemoQa Test**
 
-- 🌱 I’m currently learning **JS,API**
+- 🌱 I’m currently learning **JS,Postman API**
 
 - 📫 How to reach me **erensonmez.business@gmail.com**
 

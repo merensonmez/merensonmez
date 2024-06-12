@@ -1,6 +1,5 @@
  ![MasterHead](https://t3.ftcdn.net/jpg/01/36/51/44/360_F_136514488_j1u863gh50fsRqIFQDHIn1HW7JeHPJVz.jpg)
 <h1 align="center">Hi 👋, I'm Muhammed Eren Sönmez</h1>
-<a style="text-align: center;" href="https://github.com/merensonmez/HTML-CSS/tree/main/firstwebsite">YOU CAN LEARN MORE INFORMATION ABOUT ME!!!</a>
 <h3 align="center">Software Test Automation Engineer</h3>
 
 - 🔭 I’m currently working on **DemoQa Test**
@@ -10,7 +9,7 @@
 - 📫 How to reach me **erensonmez.business@gmail.com**
 
 - 📄 Know about my experiences [I am a Test Automation Engineer. In the area of test automation, I know Selenium (Junit, TestNG, Cucumber). I also know Java,Cypress, HTML&CSS and MySQL. * Proficient in Manual and Automated Software Testing in Java with Selenium Webdriver using Cucumber, JUnit, and TestNG .](I am a Test Automation Engineer. In the area of test automation, I know Selenium (Junit, TestNG, Cucumber). I also know Java, HTML&CSS and MySQL. * Proficient in Manual and Automated Software Testing in Java with Selenium Webdriver using Cucumber, JUnit, and TestNG .)
-
+<a style="text-align:center;" href="https://github.com/merensonmez/HTML-CSS/tree/main/firstwebsite">YOU CAN LEARN MORE INFORMATION ABOUT ME!!!</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammederensonmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammederensonmez" height="30" width="40" /></a>

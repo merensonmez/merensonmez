@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **erensonmez.business@gmail.com**
 
-- 📄 Know about my experiences [I am a Test Automation Engineer. In the area of test automation, I know Selenium (Junit, TestNG, Cucumber). I also know Java,Cypress, HTML&CSS and MySQL. * Proficient in Manual and Automated Software Testing in Java with Selenium Webdriver using Cucumber, JUnit, and TestNG .](I am a Test Automation Engineer. In the area of test automation, I know Selenium (Junit, TestNG, Cucumber). I also know Java, HTML&CSS and MySQL. * Proficient in Manual and Automated Software Testing in Java with Selenium Webdriver using Cucumber, JUnit, and TestNG .)
+- 📄 Know about my experiences [I am a Test Automation Engineer. In the area of test automation, I know Selenium (Junit, TestNG, Cucumber). I also know Java,Cypress, HTML&CSS and MySQL. * Proficient in Manual and Automated Software Testing in Java with Selenium Webdriver using Cucumber, JUnit, and TestNG .](I am a Test Automation Engineer. In the area of test automation, I know Selenium (Junit, TestNG, Cucumber). I also know Java, HTML&CSS and MySQL. * Proficient in Manual and Automated Software Testing in Java with Selenium Webdriver using Cucumber, JUnit, and TestNG.) 
 <a style="text-align:center;" href="https://github.com/merensonmez/HTML-CSS/tree/main/firstwebsite">YOU CAN LEARN MORE INFORMATION ABOUT ME!!!</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

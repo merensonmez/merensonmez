@@ -1,16 +1,14 @@
 ![MasterHead](https://t3.ftcdn.net/jpg/01/36/51/44/360_F_136514488_j1u863gh50fsRqIFQDHIn1HW7JeHPJVz.jpg)
 <h1 align="center">Hi 👋, I'm Muhammed Eren Sönmez</h1>
-<h3 align="center">Software Test Automation Engineer</h3>
+<h3 align="center">Software Test Automation Engineer and PC & Mobile App Developer</h3>
 
-- 🔭 I’m currently working on **OpenCart Demo Test**
-
-- 🌱 I’m currently learning **JS, Postman API**
+- 🔭 I’m currently working on **Gezio - Turkey Travel Guide(Play Store) and YapayNot - AI-Powered Notebook(Play Store)**
 
 - 📫 How to reach me **erensonmez.business@gmail.com**
 
 - 📄 Know about my experiences: 
 
-I am a Test Automation Engineer. In the area of test automation, I know Selenium (Junit, TestNG, Cucumber). I also know Java, Cypress, HTML&CSS and MySQL. 
+I am a Software Test Automation Engineer and PC & Mobile App Developer. In the area of test automation, I know Selenium (Junit, TestNG, Cucumber). I also know Java, Cypress, HTML&CSS and MySQL. In th area of PC & Mobile App Developer,I have two mobile app in the play store(Gezio - Turkey Travel Guide and YapayNot - AI-Powered Notebook).
 * Proficient in Manual and Automated Software Testing in Java with Selenium Webdriver using Cucumber, JUnit, and TestNG.
 
 <a href="https://github.com/merensonmez/HTML-CSS/tree/main/firstwebsite">YOU CAN LEARN MORE INFORMATION ABOUT ME!!!</a>

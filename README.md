@@ -1,17 +1,25 @@
-![MasterHead](https://t3.ftcdn.net/jpg/01/36/51/44/360_F_136514488_j1u863gh50fsRqIFQDHIn1HW7JeHPJVz.jpg)
+![MasterHead](https://kvmpay.com/web/img/mobile-app-development.png)
 <h1 align="center">Hi 👋, I'm Muhammed Eren Sönmez</h1>
 <h3 align="center">Software Test Automation Engineer and PC & Mobile App Developer</h3>
 
-- 🔭 I’m currently working on **Gezio - Turkey Travel Guide(Play Store) and YapayNot - AI-Powered Notebook(Play Store)**
+- 🔭 I’m currently working on **<a href="https://play.google.com/store/apps/details?id=com.merensonmez.turkiyegezileckyerler" target="_blank" style="font-size: 20px; color: blue; font-weight: bold;">
+    Gezio - Turkey Travel Guide(Play Store)
+</a> and <a href="https://play.google.com/store/apps/details?id=com.merensonmez.yapaynot&hl=en" target="_blank" style="font-size: 20px; color: blue; font-weight: bold;">
+    YapayNot - AI-Powered Notebook(Play Store)
+</a>**
 
 - 📫 How to reach me **erensonmez.business@gmail.com**
 
 - 📄 Know about my experiences: 
 
-I am a Software Test Automation Engineer and PC & Mobile App Developer. In the area of test automation, I know Selenium (Junit, TestNG, Cucumber). I also know Java, Cypress, HTML&CSS and MySQL. In th area of PC & Mobile App Developer,I have two mobile app in the play store(Gezio - Turkey Travel Guide and YapayNot - AI-Powered Notebook).
+I am a Software Test Automation Engineer and PC & Mobile App Developer. In the area of test automation, I know Selenium (Junit, TestNG, Cucumber). I also know Java, Cypress, HTML&CSS and MySQL. In th area of PC & Mobile App Developer,I have two mobile app in the play store(<a href="https://play.google.com/store/apps/details?id=com.merensonmez.turkiyegezileckyerler" target="_blank" style="font-size: 20px; color: blue; font-weight: bold;">
+    Gezio - Turkey Travel Guide(Play Store)
+</a> and <a href="https://play.google.com/store/apps/details?id=com.merensonmez.yapaynot&hl=en" target="_blank" style="font-size: 20px; color: blue; font-weight: bold;">
+    YapayNot - AI-Powered Notebook(Play Store)
+</a>).
 * Proficient in Manual and Automated Software Testing in Java with Selenium Webdriver using Cucumber, JUnit, and TestNG.
 
-<a href="https://github.com/merensonmez/HTML-CSS/tree/main/firstwebsite">YOU CAN LEARN MORE INFORMATION ABOUT ME!!!</a>
+<a href="https://merensonmez.netlify.app">You can learn more information about me!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

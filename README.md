@@ -1,4 +1,6 @@
-![MasterHead](https://kvmpay.com/web/img/mobile-app-development.png)
+<div style="text-align: center;">
+    <img src="https://kvmpay.com/web/img/mobile-app-development.png" alt="MasterHead" style="width: 900px; height: 550px;" />
+</div>
 <h1 align="center">Hi 👋, I'm Muhammed Eren Sönmez</h1>
 <h3 align="center">Software Test Automation Engineer and PC & Mobile App Developer</h3>
 

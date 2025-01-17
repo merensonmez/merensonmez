@@ -70,6 +70,8 @@ I am a Software Test Automation Engineer and PC & Mobile App Developer. In the a
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merensonmez&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merensonmez&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merensonmez&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merensonmez&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" /></p>
+

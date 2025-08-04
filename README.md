@@ -21,7 +21,7 @@ I am a Software Test Automation Engineer and PC & Mobile App Developer. In the a
 </a>).
 * Proficient in Manual and Automated Software Testing in Java with Selenium Webdriver using Cucumber, JUnit, and TestNG.
 
-<a href="https://merensonmez.netlify.app">You can learn more information about me!</a>
+<a href="https://merensonmez.com">You can learn more information about me!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://prakashinfotech.com/wp-content/uploads/2024/06/mobile-app-development-img.jpg" alt="Mobile App Development" width="900" height="450" />
+  <img src="https://prakashinfotech.com/wp-content/uploads/2024/06/mobile-app-development-img.jpg" alt="Mobile App Development" width="900" height="420" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Muhammed Eren Sönmez</h1>
 
 <h3 align="center">
-  Flutter Mobile App Developer | AI-Powered Apps | Play Store Published Developer
+  Flutter Mobile App Developer | AI-Powered Apps | Play Store & App Store Published Developer
 </h3>
 
 <p align="center">
@@ -25,11 +25,20 @@
 
 I’m a Flutter mobile app developer focused on building modern, scalable, and user-friendly mobile applications.
 
-I have developed and published multiple apps on Google Play, including AI-powered apps, travel guide apps, note-taking apps, food-related apps, weather apps, utility apps, and mobile games.
+I have developed and published multiple apps on **Google Play** and **App Store**, including AI-powered apps, travel guide apps, note-taking apps, weather apps, recipe apps, Quran reading apps, utility apps, and mobile games.
 
-I mainly work with **Flutter, Dart, Firebase, REST APIs, local storage, Google Maps, and AI integrations**.
+My main focus is building production-ready mobile apps with:
 
-I also have experience in software testing and test automation with **Selenium, JUnit, TestNG, Cucumber, and Cypress**, which helps me build more reliable and maintainable applications.
+- Flutter & Dart
+- AI API integrations
+- REST API integrations
+- Firebase
+- Google Maps
+- Local storage
+- Clean mobile UI
+- Google Play & App Store publishing
+
+I also have experience in software testing and test automation with Selenium, JUnit, TestNG, Cucumber, and Cypress, which helps me build more reliable applications.
 
 ---
 
@@ -41,147 +50,103 @@ I also have experience in software testing and test automation with **Selenium, 
 - REST API integration
 - Google Maps integration
 - Play Store publishing
+- App Store publishing
 - Mobile app UI improvements
 - Bug fixing and performance optimization
 - Software test automation
 
 ---
 
-## 📱 Published Apps on Google Play
+## 📱 Published Mobile Apps
 
 ### 🇹🇷 TürkGPT - Turkish AI Assistant
 
-An AI-powered Turkish assistant app that allows users to chat, ask questions, and analyze images.
+AI-powered Turkish assistant mobile app.
 
-**Highlights:**
-
-- AI chat assistant
-- Image analysis
-- Turkish-focused user experience
-- Modern mobile UI
+- AI chat experience
+- Turkish-focused interface
+- Image analysis support
 - Published on Google Play
-- 50K+ downloads
 
-<a href="https://play.google.com/store/apps/details?id=com.merensonmez.turkgpt" target="_blank">
-  View on Google Play
-</a>
-
----
-
-### 🗺️ GeziO - Turkey Travel Guide
-
-A travel guide mobile app built with Flutter, designed to help users discover places to visit in Turkey.
-
-**Highlights:**
-
-- Travel guide experience
-- Place discovery
-- Mobile-friendly UI
-- Google Play published app
-
-<a href="https://play.google.com/store/apps/details?id=com.merensonmez.turkiyegezileckyerler" target="_blank">
-  View on Google Play
-</a>
+[View Project](https://github.com/merensonmez/TurkGPT-Mobile-App)
 
 ---
 
 ### 📝 YapayNot - AI-Powered Notebook
 
-An AI-powered note-taking application built for productivity and smart note management.
+AI-powered note-taking and productivity app.
 
-**Highlights:**
-
-- AI-supported note experience
-- Productivity-focused design
-- Clean and simple mobile UI
+- Smart note management
+- AI note analysis
+- Tags, archive, and sharing
 - Published on Google Play
 
-<a href="https://play.google.com/store/apps/details?id=com.merensonmez.yapaynot&hl=en" target="_blank">
-  View on Google Play
-</a>
+[View Project](https://github.com/merensonmez/yapaynot-ai-notebook-app)
 
 ---
 
-### 🍽️ Yöresel Lezzetler
+### 🗺️ GeziO - Turkey Travel Guide
 
-A food and recipe app focused on traditional Turkish cuisine and local flavors.
+Travel guide app for discovering places in Turkey.
 
-**Highlights:**
+- Travel guide experience
+- Map-based discovery
+- Android and iOS support
+- Published on Google Play and App Store
 
-- Turkish food and recipe content
-- User-friendly recipe browsing
-- Food-focused mobile experience
-- Published on Google Play
-
-<a href="https://play.google.com/store/apps/details?id=com.merensonmez.yoresellezetler" target="_blank">
-  View on Google Play
-</a>
+[View Project](https://github.com/merensonmez/gezio-travel-guide-app)
 
 ---
 
 ### 🌦️ AiWeather - AI Weather Forecast
 
-A smart weather forecast app focused on practical and easy-to-understand weather information.
+AI-powered weather forecast mobile app.
 
-**Highlights:**
+- Weather API integration
+- AI-powered recommendations
+- Favorite city tracking
+- Published on Google Play and App Store
 
-- Weather forecast experience
-- AI-powered concept
-- Clean mobile interface
-- Published on Google Play
-
-<a href="https://play.google.com/store/apps/details?id=com.merensonmez.aiweather" target="_blank">
-  View on Google Play
-</a>
+[View Project](https://github.com/merensonmez/aiweather-mobile-app)
 
 ---
 
-### 📖 Read Quran — AI Supported Guide
+### 📖 Read Quran - AI Supported Guide
 
-A Quran reading and guide app with AI-supported features.
-
-**Highlights:**
+Quran reading and AI-supported guide app.
 
 - Quran reading experience
-- AI-supported guide concept
-- Simple mobile interface
-- Published on Google Play
+- AI-supported explanations
+- Notes and favorites
+- Published on Google Play and App Store
 
-<a href="https://play.google.com/store/search?q=Kuran%20Oku%20Muhammed%20Eren%20S%C3%B6nmez&c=apps" target="_blank">
-  View on Google Play
-</a>
+[View Project](https://github.com/merensonmez/read-quran-ai-supported-guide)
 
 ---
 
 ### 🧩 Puzzle Blocks: Chaos
 
-A mobile puzzle game published on Google Play.
+Casual block puzzle mobile game.
 
-**Highlights:**
+- 10x10 block puzzle gameplay
+- Classic Mode
+- Time Attack Mode
+- Published on Google Play and App Store
 
-- Puzzle gameplay
-- Mobile game development
-- Published on Google Play
-
-<a href="https://play.google.com/store/search?q=Puzzle%20Blocks%20Chaos%20Muhammed%20Eren%20S%C3%B6nmez&c=apps" target="_blank">
-  View on Google Play
-</a>
+[View Project](https://github.com/merensonmez/puzzle-blocks-chaos)
 
 ---
 
-### 🎮 Offline Games - No WiFi Games
+### 🍽️ Yöresel Lezzetler - Turkish Local Recipes
 
-A mobile game collection focused on offline gameplay.
+Recipe and local food discovery mobile app.
 
-**Highlights:**
+- Turkish cuisine and local recipes
+- Food categories
+- Favorites and cooking assistant features
+- Published on Google Play
 
-- Offline game experience
-- No WiFi required concept
-- Mobile game publishing experience
-
-<a href="https://play.google.com/store/search?q=%C4%B0nternetsiz%20Oyunlar%20Muhammed%20Eren%20S%C3%B6nmez&c=apps" target="_blank">
-  View on Google Play
-</a>
+[View Project](https://github.com/merensonmez/yoresel-lezzetler-app)
 
 ---
 
@@ -233,38 +198,29 @@ Currently, I’m focused on:
 
 - Building production-ready Flutter apps
 - Developing AI-powered mobile applications
+- Publishing apps on Google Play and App Store
 - Improving mobile UI/UX quality
-- Publishing and maintaining apps on Google Play
 - Working on freelance mobile app projects
 
 ---
 
 ## 📫 Contact Me
 
-<p>
-  <a href="mailto:erensonmez.business@gmail.com">
-    erensonmez.business@gmail.com
-  </a>
-</p>
+- Portfolio: [merensonmez.com](https://merensonmez.com)
+- LinkedIn: [linkedin.com/in/muhammederensonmez](https://www.linkedin.com/in/muhammederensonmez)
+- GitHub: [github.com/merensonmez](https://github.com/merensonmez)
+- Email: erensonmez.business@gmail.com
 
-<p>
-  <a href="https://merensonmez.com" target="_blank">
-    Portfolio Website
-  </a>
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/muhammederensonmez" target="_blank">
-    LinkedIn Profile
-  </a>
-</p>
-
-<p>
-  <a href="https://play.google.com/store/apps/developer?id=Muhammed+Eren+S%C3%B6nmez" target="_blank">
-    Google Play Developer Profile
-  </a>
-</p>
+---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merensonmez&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" />
+  <strong>Flutter Mobile App Developer | AI App Builder | Published Mobile Apps 🚀</strong>
+</p>
+
+---
+
+## 🔥 GitHub Streak Stats
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merensonmez&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" />
 </p>

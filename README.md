@@ -1,77 +1,270 @@
-<div style="text-align: center;">
-    <img src="https://prakashinfotech.com/wp-content/uploads/2024/06/mobile-app-development-img.jpg" alt="MasterHead" style="width: 900px; height: 550px;" />
+<div align="center">
+  <img src="https://prakashinfotech.com/wp-content/uploads/2024/06/mobile-app-development-img.jpg" alt="Mobile App Development" width="900" height="450" />
 </div>
+
 <h1 align="center">Hi 👋, I'm Muhammed Eren Sönmez</h1>
-<h3 align="center">Software Test Automation Engineer and PC & Mobile App Developer</h3>
 
-- 🔭 I’m currently working on **<a href="https://play.google.com/store/apps/details?id=com.merensonmez.turkiyegezileckyerler" target="_blank" style="font-size: 20px; color: blue; font-weight: bold;">
-    Gezio - Turkey Travel Guide(Play Store)
-</a> and <a href="https://play.google.com/store/apps/details?id=com.merensonmez.yapaynot&hl=en" target="_blank" style="font-size: 20px; color: blue; font-weight: bold;">
-    YapayNot - AI-Powered Notebook(Play Store)
-</a>**
+<h3 align="center">
+  Flutter Mobile App Developer | AI-Powered Apps | Play Store Published Developer
+</h3>
 
-- 📫 How to reach me **erensonmez.business@gmail.com**
-
-- 📄 Know about my experiences: 
-
-I am a Software Test Automation Engineer and PC & Mobile App Developer. In the area of test automation, I know Selenium (Junit, TestNG, Cucumber). I also know Java, Cypress, HTML&CSS and MySQL. In th area of PC & Mobile App Developer,I have two mobile app in the play store(<a href="https://play.google.com/store/apps/details?id=com.merensonmez.turkiyegezileckyerler" target="_blank" style="font-size: 20px; color: blue; font-weight: bold;">
-    Gezio - Turkey Travel Guide(Play Store)
-</a> and <a href="https://play.google.com/store/apps/details?id=com.merensonmez.yapaynot&hl=en" target="_blank" style="font-size: 20px; color: blue; font-weight: bold;">
-    YapayNot - AI-Powered Notebook(Play Store)
-</a>).
-* Proficient in Manual and Automated Software Testing in Java with Selenium Webdriver using Cucumber, JUnit, and TestNG.
-
-<a href="https://merensonmez.com">You can learn more information about me!</a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/muhammederensonmez" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/c/@sonmezbey8771" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Channel" height="30" width="40" />
-    </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    </a> 
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
-    </a>
-    <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/cucumber_plain_wordmark_logo_icon_146572.png" alt="Cucumber" width="40" height="40"/>
-    </a>
-    <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_cypress_icon_130654.png" alt="Cypress" width="40" height="40"/>
-    </a>
-    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.iconscout.com/icon/free/png-512/free-visualstudio-11797017-9632816.png?f=webp&w=40" alt="Visual Studio" width="40" height="40"/>
-    </a>
+<p align="center">
+  I build modern, fast, and user-friendly mobile applications with Flutter.
 </p>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="500" />
+  <a href="https://merensonmez.com" target="_blank">Portfolio</a> •
+  <a href="https://play.google.com/store/apps/developer?id=Muhammed+Eren+S%C3%B6nmez" target="_blank">Google Play</a> •
+  <a href="https://www.linkedin.com/in/muhammederensonmez" target="_blank">LinkedIn</a> •
+  <a href="mailto:erensonmez.business@gmail.com">Email</a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merensonmez&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" /></p>
+---
 
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merensonmez&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merensonmez&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" /></p>
+I’m a Flutter mobile app developer focused on building modern, scalable, and user-friendly mobile applications.
 
+I have developed and published multiple apps on Google Play, including AI-powered apps, travel guide apps, note-taking apps, food-related apps, weather apps, utility apps, and mobile games.
 
+I mainly work with **Flutter, Dart, Firebase, REST APIs, local storage, Google Maps, and AI integrations**.
+
+I also have experience in software testing and test automation with **Selenium, JUnit, TestNG, Cucumber, and Cypress**, which helps me build more reliable and maintainable applications.
+
+---
+
+## 💼 What I Can Help With
+
+- Flutter mobile app development
+- AI / ChatGPT API integration
+- Firebase integration
+- REST API integration
+- Google Maps integration
+- Play Store publishing
+- Mobile app UI improvements
+- Bug fixing and performance optimization
+- Software test automation
+
+---
+
+## 📱 Published Apps on Google Play
+
+### 🇹🇷 TürkGPT - Turkish AI Assistant
+
+An AI-powered Turkish assistant app that allows users to chat, ask questions, and analyze images.
+
+**Highlights:**
+
+- AI chat assistant
+- Image analysis
+- Turkish-focused user experience
+- Modern mobile UI
+- Published on Google Play
+- 50K+ downloads
+
+<a href="https://play.google.com/store/apps/details?id=com.merensonmez.turkgpt" target="_blank">
+  View on Google Play
+</a>
+
+---
+
+### 🗺️ GeziO - Turkey Travel Guide
+
+A travel guide mobile app built with Flutter, designed to help users discover places to visit in Turkey.
+
+**Highlights:**
+
+- Travel guide experience
+- Place discovery
+- Mobile-friendly UI
+- Google Play published app
+
+<a href="https://play.google.com/store/apps/details?id=com.merensonmez.turkiyegezileckyerler" target="_blank">
+  View on Google Play
+</a>
+
+---
+
+### 📝 YapayNot - AI-Powered Notebook
+
+An AI-powered note-taking application built for productivity and smart note management.
+
+**Highlights:**
+
+- AI-supported note experience
+- Productivity-focused design
+- Clean and simple mobile UI
+- Published on Google Play
+
+<a href="https://play.google.com/store/apps/details?id=com.merensonmez.yapaynot&hl=en" target="_blank">
+  View on Google Play
+</a>
+
+---
+
+### 🍽️ Yöresel Lezzetler
+
+A food and recipe app focused on traditional Turkish cuisine and local flavors.
+
+**Highlights:**
+
+- Turkish food and recipe content
+- User-friendly recipe browsing
+- Food-focused mobile experience
+- Published on Google Play
+
+<a href="https://play.google.com/store/apps/details?id=com.merensonmez.yoresellezetler" target="_blank">
+  View on Google Play
+</a>
+
+---
+
+### 🌦️ AiWeather - AI Weather Forecast
+
+A smart weather forecast app focused on practical and easy-to-understand weather information.
+
+**Highlights:**
+
+- Weather forecast experience
+- AI-powered concept
+- Clean mobile interface
+- Published on Google Play
+
+<a href="https://play.google.com/store/apps/details?id=com.merensonmez.aiweather" target="_blank">
+  View on Google Play
+</a>
+
+---
+
+### 📖 Read Quran — AI Supported Guide
+
+A Quran reading and guide app with AI-supported features.
+
+**Highlights:**
+
+- Quran reading experience
+- AI-supported guide concept
+- Simple mobile interface
+- Published on Google Play
+
+<a href="https://play.google.com/store/search?q=Kuran%20Oku%20Muhammed%20Eren%20S%C3%B6nmez&c=apps" target="_blank">
+  View on Google Play
+</a>
+
+---
+
+### 🧩 Puzzle Blocks: Chaos
+
+A mobile puzzle game published on Google Play.
+
+**Highlights:**
+
+- Puzzle gameplay
+- Mobile game development
+- Published on Google Play
+
+<a href="https://play.google.com/store/search?q=Puzzle%20Blocks%20Chaos%20Muhammed%20Eren%20S%C3%B6nmez&c=apps" target="_blank">
+  View on Google Play
+</a>
+
+---
+
+### 🎮 Offline Games - No WiFi Games
+
+A mobile game collection focused on offline gameplay.
+
+**Highlights:**
+
+- Offline game experience
+- No WiFi required concept
+- Mobile game publishing experience
+
+<a href="https://play.google.com/store/search?q=%C4%B0nternetsiz%20Oyunlar%20Muhammed%20Eren%20S%C3%B6nmez&c=apps" target="_blank">
+  View on Google Play
+</a>
+
+---
+
+## 🛠️ Tech Stack
+
+### Mobile Development
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/>
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+</p>
+
+### Web Technologies
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+</p>
+
+### Testing & Automation
+
+<p>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="45" height="45"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/cucumber_plain_wordmark_logo_icon_146572.png" alt="Cucumber" width="45" height="45"/>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_cypress_icon_130654.png" alt="Cypress" width="45" height="45"/>
+</p>
+
+### Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+</p>
+
+---
+
+## 📌 Current Focus
+
+Currently, I’m focused on:
+
+- Building production-ready Flutter apps
+- Developing AI-powered mobile applications
+- Improving mobile UI/UX quality
+- Publishing and maintaining apps on Google Play
+- Working on freelance mobile app projects
+
+---
+
+## 📫 Contact Me
+
+<p>
+  <a href="mailto:erensonmez.business@gmail.com">
+    erensonmez.business@gmail.com
+  </a>
+</p>
+
+<p>
+  <a href="https://merensonmez.com" target="_blank">
+    Portfolio Website
+  </a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/muhammederensonmez" target="_blank">
+    LinkedIn Profile
+  </a>
+</p>
+
+<p>
+  <a href="https://play.google.com/store/apps/developer?id=Muhammed+Eren+S%C3%B6nmez" target="_blank">
+    Google Play Developer Profile
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merensonmez&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" />
+</p>

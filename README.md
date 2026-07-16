@@ -1,226 +1,290 @@
 <div align="center">
-  <img src="https://prakashinfotech.com/wp-content/uploads/2024/06/mobile-app-development-img.jpg" alt="Mobile App Development" width="900" height="420" />
+
+  <!-- Typing Animation Header -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Muhammed+Eren+S%C3%B6nmez;Flutter+Developer+%7C+AI+App+Builder;Play+Store+%26+App+Store+Publisher)](https://git.io/typing-svg)
+
+  <!-- Gradient Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6&section=header" width="100%" />
+
+  <!-- Social Links -->
+  <p>
+    <a href="https://merensonmez.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-merensonmez.com-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://www.linkedin.com/in/muhammederensonmez" target="_blank"><img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://play.google.com/store/apps/dev?id=7833928087990950678" target="_blank"><img src="https://img.shields.io/badge/📲_Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>
+    <a href="mailto:erensonmez.business@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
+
+  <!-- Quick Stats -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=merensonmez&label=Profile%20Views&color=1a73e8&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/📱_Published_Apps-7+-00d4aa?style=for-the-badge" alt="Published Apps"/>
+    <img src="https://img.shields.io/badge/🏪_Platforms-Play_%26_App_Store-1a73e8?style=for-the-badge" alt="Platforms"/>
+  </p>
+
 </div>
 
-<h1 align="center">Hi 👋, I'm Muhammed Eren Sönmez</h1>
+---
 
-<h3 align="center">
-  Flutter Mobile App Developer | AI-Powered Apps | Play Store & App Store Published Developer
-</h3>
+## 👋 About Me
 
-<p align="center">
-  I build modern, fast, and user-friendly mobile applications with Flutter.
-</p>
+I'm a **Flutter mobile app developer** from Turkey 🇹🇷, building modern, scalable, and user-friendly mobile applications.
 
-<p align="center">
-  <a href="https://merensonmez.com" target="_blank">Portfolio</a> •
-  <a href="https://play.google.com/store/apps/developer?id=Muhammed+Eren+S%C3%B6nmez" target="_blank">Google Play</a> •
-  <a href="https://www.linkedin.com/in/muhammederensonmez" target="_blank">LinkedIn</a> •
-  <a href="mailto:erensonmez.business@gmail.com">Email</a>
-</p>
+I've developed and published **7+ apps** on **Google Play** and **App Store** — from AI-powered chatbots to travel guides, weather apps, recipe apps, and mobile games.
+
+```dart
+class ErenSonmez {
+  final String role = "Flutter Mobile App Developer";
+  final String company = "Sonmez Digital";
+  final List<String> platforms = ["Google Play", "App Store"];
+  final List<String> specialties = [
+    "AI/ML API Integration",
+    "Firebase & REST APIs",
+    "Clean Mobile UI/UX",
+    "Full App Lifecycle (Idea → Store)",
+  ];
+  
+  void sayHi() => print("Let's build something amazing together! 🚀");
+}
+```
 
 ---
 
-## 🚀 About Me
+## 🏆 What Sets Me Apart
 
-I’m a Flutter mobile app developer focused on building modern, scalable, and user-friendly mobile applications.
-
-I have developed and published multiple apps on **Google Play** and **App Store**, including AI-powered apps, travel guide apps, note-taking apps, weather apps, recipe apps, Quran reading apps, utility apps, and mobile games.
-
-My main focus is building production-ready mobile apps with:
-
-- Flutter & Dart
-- AI API integrations
-- REST API integrations
-- Firebase
-- Google Maps
-- Local storage
-- Clean mobile UI
-- Google Play & App Store publishing
-
-I also have experience in software testing and test automation with Selenium, JUnit, TestNG, Cucumber, and Cypress, which helps me build more reliable applications.
+| | Capability | Proof |
+|---|---|---|
+| 🚀 | **Full-cycle developer** | Idea → Design → Code → Test → Publish → Maintain |
+| 🤖 | **AI integration specialist** | ChatGPT APIs, image analysis, smart recommendations |
+| 📱 | **Cross-platform** | Both Android (Play Store) and iOS (App Store) |
+| 🧪 | **Testing background** | Selenium, JUnit, Cypress experience |
+| 🇹🇷 | **Niche market expertise** | Turkish-language AI apps with cultural context |
 
 ---
 
-## 💼 What I Can Help With
+## 📱 Published Apps
 
-- Flutter mobile app development
-- AI / ChatGPT API integration
-- Firebase integration
-- REST API integration
-- Google Maps integration
-- Play Store publishing
-- App Store publishing
-- Mobile app UI improvements
-- Bug fixing and performance optimization
-- Software test automation
+<table>
+<tr>
+<td width="50%" align="center">
 
----
+<img src="https://play-lh.googleusercontent.com/z6l7X-0mTr_Eds39pzEwZH62lHdnhRcB46Kaevj7ZeUTDLyzJN7tbLMcYNEzYV7buuXkzD9O3rpWHonpRpUfReU=w240-h480-rw" width="80" style="border-radius:16px"/>
 
-## 📱 Published Mobile Apps
+### 🤖 TürkGPT — Turkish AI Assistant
 
-### 🇹🇷 TürkGPT - Turkish AI Assistant
+> AI-powered Turkish chatbot with image analysis
 
-AI-powered Turkish assistant mobile app.
+- 💬 Smart AI chat in Turkish
+- 🖼️ Photo analysis support
+- 📝 Chat history
+- ⭐ **50B+ downloads**
 
-- AI chat experience
-- Turkish-focused interface
-- Image analysis support
-- Published on Google Play
+[![Play Store](https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.merensonmez.turkgpt)
+[![GitHub](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merensonmez/turkgpt-mobile-app)
 
-[View Project](https://github.com/merensonmez/TurkGPT-Mobile-App)
+</td>
+<td width="50%" align="center">
 
----
+<img src="https://play-lh.googleusercontent.com/bV3d7ETBPeTBxWqw16EgFvYSrZA6bumd3AHAr1y7e_sMBbt5Jo3GGXkJjnelEx3Pc5AXtZCvxJWSY945mmFMyoc=w240-h480-rw" width="80" style="border-radius:16px"/>
 
-### 📝 YapayNot - AI-Powered Notebook
+### 🗺️ GeziO — Turkey Travel Guide
 
-AI-powered note-taking and productivity app.
+> Map-based travel discovery app for Turkey
 
-- Smart note management
-- AI note analysis
-- Tags, archive, and sharing
-- Published on Google Play
+- 📍 Interactive map exploration
+- 🏛️ Curated travel content
+- 📱 Android + iOS support
+- ⭐ **1K+ downloads**
 
-[View Project](https://github.com/merensonmez/yapaynot-ai-notebook-app)
+[![Play Store](https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.merensonmez.turkiyegezileckyerler)
+[![GitHub](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merensonmez/gezio-travel-guide-app)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
-### 🗺️ GeziO - Turkey Travel Guide
+<img src="https://play-lh.googleusercontent.com/CjY9kXbWemwGO4wEJLBEdQvp6rxVxFwOs6tOvE_8VXXUNZPYFu1nYuU7YHemASVBSVu_fvI2ByRg_wI6GKtgGA=w240-h480-rw" width="80" style="border-radius:16px"/>
 
-Travel guide app for discovering places in Turkey.
+### 🌦️ AiWeather — AI Weather Forecast
 
-- Travel guide experience
-- Map-based discovery
-- Android and iOS support
-- Published on Google Play and App Store
+> Smart weather app with AI-powered recommendations
 
-[View Project](https://github.com/merensonmez/gezio-travel-guide-app)
+- 🌡️ Real-time weather data
+- 🤖 AI recommendations
+- ⭐ Favorite city tracking
+- 📱 Android + iOS
 
----
+[![Play Store](https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.merensonmez.aiweather)
+[![GitHub](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merensonmez/aiweather-mobile-app)
 
-### 🌦️ AiWeather - AI Weather Forecast
+</td>
+<td width="50%" align="center">
 
-AI-powered weather forecast mobile app.
+<img src="https://play-lh.googleusercontent.com/pHMPKhrIpAOjquMhVnKPhoddi5UCbWn3FVDHBtI9tUOAAvsG7YfYJArVCBluhDZo98mhmSr7Fz23kojQz0VDhg=w240-h480-rw" width="80" style="border-radius:16px"/>
 
-- Weather API integration
-- AI-powered recommendations
-- Favorite city tracking
-- Published on Google Play and App Store
+### 📝 YapayNot — AI Notebook
 
-[View Project](https://github.com/merensonmez/aiweather-mobile-app)
+> AI-powered note-taking and productivity app
 
----
+- 🧠 AI note analysis
+- 🏷️ Tags & categories
+- 📤 Sharing & archive
+- 🔒 Local storage
 
-### 📖 Read Quran - AI Supported Guide
+[![Play Store](https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.merensonmez.yapaynot)
+[![GitHub](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merensonmez/yapaynot-ai-notebook-app)
 
-Quran reading and AI-supported guide app.
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
-- Quran reading experience
-- AI-supported explanations
-- Notes and favorites
-- Published on Google Play and App Store
+<img src="https://play-lh.googleusercontent.com/LAGthjVAfu0oaMXzDR1xMkpiLjRRFGaptHwslaLvusjixRuIZ57SL3YIWNuHAsLqBB2RwQc_8ocLb1zxZNqjFw=w240-h480-rw" width="80" style="border-radius:16px"/>
 
-[View Project](https://github.com/merensonmez/read-quran-ai-supported-guide)
+### 📖 Read Quran — AI Supported Guide
 
----
+> Quran reading with AI-powered explanations
+
+- 📜 Full Quran text
+- 🤖 AI-supported tafsir
+- 🔖 Notes & favorites
+- 📱 Android + iOS
+
+[![Play Store](https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.merensonmez.kuranokuai)
+[![App Store](https://img.shields.io/badge/🍎_App_Store-0D84FF?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/read-quran-ai-supported-guide/id6759064017)
+[![GitHub](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merensonmez/read-quran-ai-supported-guide)
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://play-lh.googleusercontent.com/PeR5excB7ZJgWq_bjjUNVhTlqhGkJ_yAwDW35WyixQkBBv2VO_gO7sjfIBUUaTHdQxXumgnjTObmOU5RJ5-v-w=w240-h480-rw" width="80" style="border-radius:16px"/>
 
 ### 🧩 Puzzle Blocks: Chaos
 
-Casual block puzzle mobile game.
+> Casual 10x10 block puzzle game
 
-- 10x10 block puzzle gameplay
-- Classic Mode
-- Time Attack Mode
-- Published on Google Play and App Store
+- 🎮 Classic & Time Attack modes
+- 🧩 Intuitive drag & drop
+- 🏆 Score tracking
+- 📱 Android + iOS
 
-[View Project](https://github.com/merensonmez/puzzle-blocks-chaos)
+[![Play Store](https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.merensonmez.puzzle_blocks)
+[![App Store](https://img.shields.io/badge/🍎_App_Store-0D84FF?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/puzzle-blocks-chaos/id6746166163)
+[![GitHub](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merensonmez/puzzle-blocks-chaos)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
-### 🍽️ Yöresel Lezzetler - Turkish Local Recipes
+<img src="https://play-lh.googleusercontent.com/baGroAA4jjV5g6kxAjq5H7PXiqL5_O7adDl9zaB0cLQ652SwfOpapoJCERKnXU5uQge_mKncUZJOT09xdNpw3KQ=w240-h480-rw" width="80" style="border-radius:16px"/>
 
-Recipe and local food discovery mobile app.
+### 🍽️ Yöresel Lezzetler
 
-- Turkish cuisine and local recipes
-- Food categories
-- Favorites and cooking assistant features
-- Published on Google Play
+> Turkish local recipes & cuisine discovery
 
-[View Project](https://github.com/merensonmez/yoresel-lezzetler-app)
+- 🍲 Regional Turkish recipes
+- 📂 Category browsing
+- ❤️ Favorites system
+- 🧑‍🍳 Cooking assistant
+
+[![Play Store](https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.merensonmez.yoresellezetler)
+[![GitHub](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merensonmez/yoresel-lezzetler-app)
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://play-lh.googleusercontent.com/sV32TuKr71ZSD_lZbCm30nDYqJiUmX7xgwDQ-HaPWqBC299_FMQ2UXbmZAKwDu-t3mHPAKxMXmf1dY4ntwAG0g=w240-h480-rw" width="80" style="border-radius:16px"/>
+
+### 🎮 Offline Games
+
+> No WiFi needed casual games collection
+
+- 🕹️ Multiple mini games
+- 📶 Works offline
+- 🎯 Quick sessions
+- 📱 Android
+
+[![Play Store](https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.merensonmez.minigames)
+[![GitHub](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merensonmez)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Mobile Development
+<div align="center">
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/>
-</p>
+**Mobile Development**
 
-### Backend & Database
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" title="Dart"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" title="iOS"/>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-</p>
+**Backend & APIs**
 
-### Web Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
-</p>
+**Tools & Platforms**
 
-### Testing & Automation
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" title="Android Studio"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/>
 
-<p>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="45" height="45"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/cucumber_plain_wordmark_logo_icon_146572.png" alt="Cucumber" width="45" height="45"/>
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_cypress_icon_130654.png" alt="Cypress" width="45" height="45"/>
-</p>
-
-### Tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-</p>
+</div>
 
 ---
 
-## 📌 Current Focus
+## 📊 GitHub Stats
 
-Currently, I’m focused on:
+<div align="center">
 
-- Building production-ready Flutter apps
-- Developing AI-powered mobile applications
-- Publishing apps on Google Play and App Store
-- Improving mobile UI/UX quality
-- Working on freelance mobile app projects
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=merensonmez&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a73e8&ring=00d4aa&fire=1a73e8&currStreakLabel=1a73e8&sideLabels=00d4aa" width="48%" alt="Streak Stats"/>
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=merensonmez&theme=tokyonight" width="48%" alt="Profile Summary"/>
 
-## 📫 Contact Me
+</div>
 
-- Portfolio: [merensonmez.com](https://merensonmez.com)
-- LinkedIn: [linkedin.com/in/muhammederensonmez](https://www.linkedin.com/in/muhammederensonmez)
-- GitHub: [github.com/merensonmez](https://github.com/merensonmez)
-- Email: erensonmez.business@gmail.com
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=merensonmez&bg_color=0d1117&color=1a73e8&line=00d4aa&point=ffffff&area=true&area_color=1a73e8&hide_border=true" width="70%" alt="Activity Graph"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <strong>Flutter Mobile App Developer | AI App Builder | Published Mobile Apps 🚀</strong>
-</p>
+## 🎯 Currently
+
+- 🔭 Building **new AI-powered mobile apps**
+- 🌱 Exploring **on-device ML** and **advanced AI integrations**
+- 👯 Open to **Flutter collaboration** and **open source contributions**
+- 💬 Ask me about **Flutter, Firebase, AI APIs, Mobile Development**
+- ⚡ Fun fact: I published **7+ apps** on both Play Store and App Store
 
 ---
 
-## 🔥 GitHub Streak Stats
+## 📫 Let's Connect
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merensonmez&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://merensonmez.com)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammederensonmez)
+[![Google Play](https://img.shields.io/badge/📲_Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7833928087990950678)
+[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erensonmez.business@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6&section=footer" width="100%" />
+  <p>Made with ❤️ by <b>Muhammed Eren Sönmez</b></p>
+</div>

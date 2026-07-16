@@ -78,8 +78,8 @@ class ErenSonmez {
 - 📝 Chat history
 - ⭐ **50B+ downloads**
 
-[![Play Store](https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.merensonmez.turkgpt)
-[![GitHub](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merensonmez/turkgpt-mobile-app)
+<a href="https://play.google.com/store/apps/details?id=com.merensonmez.turkgpt" target="_blank"><img src="https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/></a>
+<a href="https://github.com/merensonmez/turkgpt-mobile-app" target="_blank"><img src="https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </td>
 <td width="50%" align="center">
@@ -95,8 +95,9 @@ class ErenSonmez {
 - 📱 Android + iOS support
 - ⭐ **1K+ downloads**
 
-[![Play Store](https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.merensonmez.turkiyegezileckyerler)
-[![GitHub](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merensonmez/gezio-travel-guide-app)
+<a href="https://play.google.com/store/apps/details?id=com.merensonmez.turkiyegezileckyerler" target="_blank"><img src="https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/></a>
+<a href="https://apps.apple.com/us/app/gezio-turkey-travel-guide/id6759208021" target="_blank"><img src="https://img.shields.io/badge/🍎_App_Store-0D84FF?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
+<a href="https://github.com/merensonmez/gezio-travel-guide-app" target="_blank"><img src="https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </td>
 </tr>
@@ -114,8 +115,9 @@ class ErenSonmez {
 - ⭐ Favorite city tracking
 - 📱 Android + iOS
 
-[![Play Store](https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.merensonmez.aiweather)
-[![GitHub](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merensonmez/aiweather-mobile-app)
+<a href="https://play.google.com/store/apps/details?id=com.merensonmez.aiweather" target="_blank"><img src="https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/></a>
+<a href="https://apps.apple.com/us/app/aiweather-ai-weather-forecast/id6758352953" target="_blank"><img src="https://img.shields.io/badge/🍎_App_Store-0D84FF?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
+<a href="https://github.com/merensonmez/aiweather-mobile-app" target="_blank"><img src="https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </td>
 <td width="50%" align="center">
@@ -131,8 +133,8 @@ class ErenSonmez {
 - 📤 Sharing & archive
 - 🔒 Local storage
 
-[![Play Store](https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.merensonmez.yapaynot)
-[![GitHub](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merensonmez/yapaynot-ai-notebook-app)
+<a href="https://play.google.com/store/apps/details?id=com.merensonmez.yapaynot" target="_blank"><img src="https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/></a>
+<a href="https://github.com/merensonmez/yapaynot-ai-notebook-app" target="_blank"><img src="https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </td>
 </tr>
@@ -150,9 +152,9 @@ class ErenSonmez {
 - 🔖 Notes & favorites
 - 📱 Android + iOS
 
-[![Play Store](https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.merensonmez.kuranokuai)
-[![App Store](https://img.shields.io/badge/🍎_App_Store-0D84FF?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/read-quran-ai-supported-guide/id6759064017)
-[![GitHub](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merensonmez/read-quran-ai-supported-guide)
+<a href="https://play.google.com/store/apps/details?id=com.merensonmez.kuranokuai" target="_blank"><img src="https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/></a>
+<a href="https://apps.apple.com/app/read-quran-ai-supported-guide/id6759064017" target="_blank"><img src="https://img.shields.io/badge/🍎_App_Store-0D84FF?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
+<a href="https://github.com/merensonmez/read-quran-ai-supported-guide" target="_blank"><img src="https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </td>
 <td width="50%" align="center">
@@ -168,9 +170,9 @@ class ErenSonmez {
 - 🏆 Score tracking
 - 📱 Android + iOS
 
-[![Play Store](https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.merensonmez.puzzle_blocks)
-[![App Store](https://img.shields.io/badge/🍎_App_Store-0D84FF?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/puzzle-blocks-chaos/id6746166163)
-[![GitHub](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merensonmez/puzzle-blocks-chaos)
+<a href="https://play.google.com/store/apps/details?id=com.merensonmez.puzzle_blocks" target="_blank"><img src="https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/></a>
+<a href="https://apps.apple.com/us/app/puzzle-blocks-chaos/id6758466984" target="_blank"><img src="https://img.shields.io/badge/🍎_App_Store-0D84FF?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
+<a href="https://github.com/merensonmez/puzzle-blocks-chaos" target="_blank"><img src="https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </td>
 </tr>
@@ -188,8 +190,8 @@ class ErenSonmez {
 - ❤️ Favorites system
 - 🧑‍🍳 Cooking assistant
 
-[![Play Store](https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.merensonmez.yoresellezetler)
-[![GitHub](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merensonmez/yoresel-lezzetler-app)
+<a href="https://play.google.com/store/apps/details?id=com.merensonmez.yoresellezetler" target="_blank"><img src="https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/></a>
+<a href="https://github.com/merensonmez/yoresel-lezzetler-app" target="_blank"><img src="https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </td>
 <td width="50%" align="center">
@@ -205,8 +207,8 @@ class ErenSonmez {
 - 🎯 Quick sessions
 - 📱 Android
 
-[![Play Store](https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.merensonmez.minigames)
-[![GitHub](https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merensonmez)
+<a href="https://play.google.com/store/apps/details?id=com.merensonmez.minigames" target="_blank"><img src="https://img.shields.io/badge/📲_Play_Store-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/></a>
+<a href="https://github.com/merensonmez" target="_blank"><img src="https://img.shields.io/badge/📂_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </td>
 </tr>
@@ -275,10 +277,10 @@ class ErenSonmez {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://merensonmez.com)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammederensonmez)
-[![Google Play](https://img.shields.io/badge/📲_Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7833928087990950678)
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erensonmez.business@gmail.com)
+<a href="https://merensonmez.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/muhammederensonmez" target="_blank"><img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://play.google.com/store/apps/dev?id=7833928087990950678" target="_blank"><img src="https://img.shields.io/badge/📲_Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>
+<a href="mailto:erensonmez.business@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
